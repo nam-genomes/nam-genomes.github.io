@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+## Whole genome assembly of the maize NAM founders
 
-You can use the [editor on GitHub](https://github.com/nam-genomes/nam-genomes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Non-Technical Abstract: Maize is not only an important crop but an important study species for answering basic questions about how plants grow and adapt to different environments. Genome assemblies, which are complete representations of the genetic information in a plant variety, are critical resources for answering these important questions. However, currently only a single type specimen is used as the sequence reference for most of the genetic information in maize, leaving unknown much of the highly valuable natural variation in maize. This project will assemble the genomes of 26 additional maize lines, chosen to represent a broad cross section of the maize lines used in modern breeding. The sequence assemblies will be enhanced by adding information about the nature of the genes and how the genomes differ from each other. All information will be released on an accelerated schedule through public databases. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nam-genomes/nam-genomes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Technical Abstract: Maize is an important crop and model organism for plant genetics. However, currently nearly all forms of sequence analysis are referenced to the single B73 inbred. Beyond B73, the most extensively researched maize lines are the core set of 25 inbreds known as the NAM founder lines, which represent a broad cross section of modern maize diversity. Prior data show that gene content can differ by more than 5% across lines and that as much as half of the functional genetic information lies outside of genes in highly variable intergenic spaces. To capture and utilize this variation, the NAM founder inbreds and a twenty-sixth line containing abnormal chromosome 10 will be sequenced and assembled using a mate-pair strategy. Scaffolds will be validated by BioNano optical mapping, and ordered and oriented using linkage data. RNA-seq data from multiple tissues will be used to annotate each genome, and assemblies and annotations will be released with genome browser support through MaizeGDB, NCBI, and Cyverse. Comparative genomic tools will be used to identify and to catalog the maize pangenome, and to assess the role of structural variation such as presence-absence variation and copy number variation in the determination of agronomic traits. Results will be disseminated through a project web site and a CyVerse/Gramene/MaizeCODE Workshop at the 61st Annual Maize Meeting in March of 2019.

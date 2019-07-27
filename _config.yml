@@ -81,10 +81,10 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+lang: en-US # Set the site language
+title: "NAM genomes" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "Maize is not only an important crop but an important study species for answering basic questions about how plants grow and adapt to different environments. Genome assemblies, which are complete representations of the genetic information in a plant variety, are critical resources for answering these important questions. However, currently only a single type specimen is used as the sequence reference for most of the genetic information in maize, leaving unknown much of the highly valuable natural variation in maize. This project will assemble the genomes of 26 additional maize lines, chosen to represent a broad cross section of the maize lines used in modern breeding. The sequence assemblies will be enhanced by adding information about the nature of the genes and how the genomes differ from each other. All information will be released on an accelerated schedule through public databases. " # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -112,14 +112,14 @@ navigation_header:
   url: /
 - title: Elements
   url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
+#- title: Blog
+#  url: /blog/
+#- title: Categories#
+#  url: /categories/
 - title: Search
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
+#- title: Fork Alembic
+#  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
 - title: Created by David Darnes

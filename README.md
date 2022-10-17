@@ -1,4 +1,4 @@
 # NAM Genomes Webiste
 
-https://nam-genomes.org
+https://nam-genomes.github.io
 
